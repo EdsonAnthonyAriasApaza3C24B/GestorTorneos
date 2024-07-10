@@ -1,0 +1,12 @@
+tecnologias: django(backend), react(frontend)  
+servidor: aws
+base de datos: SQL(asignado)
+
+
+
+Informacion:
+la navegaciòn para Categorias>Grado>Deporte>Jugadores
+opciones de pagina principal
+-login
+-Categorias
+-
